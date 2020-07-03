@@ -53,18 +53,18 @@ ul li.login a {
 .footer {
   background-color: #2f5167;
   color: #fff;
-  height: 40px;
-  padding: 20px;
+  height: 20px;
+  padding: 5px;
 }
 
 .footer-logo {
   float: left;
-  padding: 32px;
+  padding: 10px;
 }
 
 .footer-list {
   float: right;
-  padding: 20px;
+  padding: 10px;
 }
 
 .footer-list ul {

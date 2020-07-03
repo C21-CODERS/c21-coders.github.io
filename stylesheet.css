@@ -47,8 +47,29 @@ header-list{
 
 .footer-rights {
   text-align: left;
+  float: left;
+  padding: 20px;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
 }
 
 .footer-designer {
   text-align: left;
+  float: left;
+  padding: 20px;
 }
+
+.footer-list {
+  float: right;
+  padding: 20px;
+}
+
+.footer-list ul {
+  display: inline-block;
+}
+  

@@ -45,6 +45,11 @@ ul li.login a {
   margin: auto;
 }
 
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
 .footer-rights {
   text-align: left;
   float: left;

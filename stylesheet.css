@@ -58,8 +58,12 @@ ul li.login a {
   padding: 40px;
 }
 
+.footer-rights {
+  float: left;
+  padding: 32px;
+}
+
 .footer-designer {
-  text-align: left;
   float: left;
   padding: 20px;
 }

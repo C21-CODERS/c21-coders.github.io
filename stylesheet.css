@@ -50,12 +50,6 @@ ul li.login a {
   height: 600px;
 }
 
-.footer-rights {
-  text-align: left;
-  float: left;
-  padding: 20px;
-}
-
 .footer {
   background-color: #2f5167;
   color: #fff;
@@ -63,14 +57,9 @@ ul li.login a {
   padding: 40px;
 }
 
-.footer-rights {
+.footer-logo {
   float: left;
   padding: 32px;
-}
-
-.footer-designer {
-  float: left;
-  padding: 20px;
 }
 
 .footer-list {

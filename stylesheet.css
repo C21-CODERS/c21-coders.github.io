@@ -1,3 +1,45 @@
-.title {
-  color: #02ccba;
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  background-color: rgba(0, 0, 0, 0.9);
+  height: 65px;
+  width: 100%;
+}
+
+ul {
+  float: right;
+  margin-top: 20px;
+}
+
+ul li {
+  display: inline-block;
+}
+
+ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 5px 20px;
+  border: 1px solid transparent;
+}
+
+ul li a:hover {
+  background-color: white;
+  color: black;
+}
+ul li.login a {
+  background-color: white;
+  color: black;
+}
+
+header-list {
+  max-width: 1200px;
+  margin: auto;
 }

@@ -45,29 +45,10 @@ header-list{
   margin: auto;
 }
 
-footer{
-  background-color: rgb(223, 249, 251, 0.9);
-  height: 65px;
-  width: 100%;
+.footer-rights {
+  text-align: left;
 }
 
-footer-list{
-  max-width: 1200px;
-  margin: auto;
-}
-
-footer-list ul{
-  float: right;
-  margin-top: 20px;
-}
-
-footer-list ul li{
-  display: inline-block;
-}
-
-footer-list ul li a{
-  text-decoration: none;
-  color: white;
-  padding: 5px 20px;
-  border: 1px solid transparent;
+.footer-designer {
+  text-align: left;
 }
